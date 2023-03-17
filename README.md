@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer por gusto, Data Scientist por amor.<br>Busco de forma activa retos relacionados a la toma de decisiones mediante algoritmos y resultados mediante data.<br>Actualmente soy Developer Full Stack pero estoy esperando un buen momento para aventurarme a lo que creo que es mi aventura definitiva.
+Developer por gusto, Data Scientist por amor.<br>Busco de forma activa retos relacionados a la toma de decisiones mediante algoritmos y resultados mediante data.<br>Actualmente soy Developer Full Stack Jr. pero estoy esperando un buen momento para aventurarme a lo que creo que es mi aventura definitiva.
 
 
 # 💻 Tech Stack:
