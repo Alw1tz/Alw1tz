@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer por gusto, Data Scientist / Engineer por amor.<br>Busco de forma activa retos relacionados a la toma de decisiones mediante algoritmos y resultados mediante data. Actualmente domino la mayoría de rubros del esquema de ETL para trabajar directamente con datos y visualización de los mismos.<br>Al día de hoy soy Developer Full Stack Jr. pero estoy esperando un buen momento para aventurarme a lo que creo que es mi aventura definitiva.
+Developer for fun, Data Scientist / Engineer for love.<br>I actively seek challenges related to decision making through algorithms and results through data. Currently I master most of the ETL schema to work directly with data and data visualization.<br>As of today I am a Full Stack Jr. Developer but I am waiting for a good time to venture into what I believe is my ultimate adventure.
 
 
 # 💻 Tech Stack:
@@ -16,8 +16,8 @@ Developer por gusto, Data Scientist / Engineer por amor.<br>Busco de forma activ
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alw1tz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alw1tz&theme=dark&hide_border=true)<br/>
+![](http://ForTheBadge.com/images/badges/built-with-love.svg)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
