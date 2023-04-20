@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer for fun, Data Scientist / Engineer for love.<br>I actively seek challenges related to decision making through algorithms and results through data. Currently I master most of the ETL schema to work directly with data and data visualization.<br>As of today I am a Full Stack Jr. Developer but I am waiting for a good time to venture into what I believe is my ultimate adventure.
+Developer for fun, Data Scientist / Engineer for love.<br>I actively seek challenges related to decision making through algorithms and results through data. Currently I master most of the ETL schema to work directly with data and data visualization.<br>As of today I am a Full Stack Jr. Developer but I am waiting for a good time to venture into what I believe is my ultimate adventure. Update: Currently I am Data Engineer :D 
 
 
 # 💻 Tech Stack:
